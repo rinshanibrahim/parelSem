@@ -481,7 +481,6 @@ header{
     .device {
       -webkit-background-size: 100% 100%;
       background-repeat: no-repeat;
-      background-image: url(../images/unnamed.png);
       background-size: contain;
       background-position: center center;
       overflow: hidden;
@@ -695,6 +694,7 @@ header{
 			h2{
 				color: $white;
 //				margin-bottom: 30px
+				font-size: 2.6rem;
 			}
 			p{
 				color: $text;
@@ -838,6 +838,7 @@ header{
 		h2{
 			color: $white;
 //			margin-bottom: 30px
+font-size: 2.6rem;
 		}
 		p{
 			color: $text;
@@ -942,4 +943,5 @@ footer{
     max-width: 800px;
     margin: 0 auto;
 }
+
 

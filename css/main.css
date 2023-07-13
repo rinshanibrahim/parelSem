@@ -402,7 +402,6 @@ header.scrolled .wrapper .nav-section .top-bar {
 .mobile-slider .wrapper .device {
   -webkit-background-size: 100% 100%;
   background-repeat: no-repeat;
-  background-image: url(../images/unnamed.png);
   background-size: contain;
   background-position: center center;
   overflow: hidden;
@@ -568,6 +567,7 @@ header.scrolled .wrapper .nav-section .top-bar {
 }
 .cta-banner .wrapper .left-content h2 {
   color: #ffffff;
+  font-size: 2.6rem;
 }
 .cta-banner .wrapper .left-content p {
   color: #e7e7e7;
@@ -682,6 +682,7 @@ header.scrolled .wrapper .nav-section .top-bar {
 }
 .cta .wrapper h2 {
   color: #ffffff;
+  font-size: 2.6rem;
 }
 .cta .wrapper p {
   color: #e7e7e7;
