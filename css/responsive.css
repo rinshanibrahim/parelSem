@@ -241,9 +241,13 @@
       height: 100%;
       }
     .hero.video-hero {
-      height: auto;
+      height: 160vh;
  
       }
+    .hero .wrapper .hero-left h1 {
+      margin-top: 10px;
+
+    }
     
 
 }
